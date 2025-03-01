@@ -23,10 +23,10 @@ The imaginary company sales their products in diffrent regions of contry through
 
 ### Year Wise Sales Analysis Reports
 
-![image](https://user-images.githubusercontent.com/125534171/219425186-d6a7dfdd-4014-4ca0-bf01-234a1a7256d7.png)
-
-![image](https://user-images.githubusercontent.com/125534171/219425349-fcd64030-8104-4ac8-96f6-f699cc2b2e74.png)
-
 ![image](https://user-images.githubusercontent.com/125534171/219425477-6de8a0a1-80d8-4698-8f3d-eb01f84dc06a.png)
 
 ![image](https://user-images.githubusercontent.com/125534171/219425684-4892451c-c0c4-4c2d-9d5d-43d456d6d96d.png)
+
+**Developed 
+by:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
